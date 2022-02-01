@@ -1,7 +1,8 @@
+git@gitcheatsheet.com
 ---
 title: Git cheatsheet
 redirect_from:
-  - /articles/git-cheatsheet
+ https://github.com/github/docs/tree/github:main - /articles/git-cheatsheet
   - /github/getting-started-with-github/git-cheatsheet
   - /github/getting-started-with-github/quickstart/git-cheatsheet
 versions:
